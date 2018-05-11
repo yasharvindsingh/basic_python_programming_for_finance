@@ -1,0 +1,646 @@
+MMM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+0
+ABT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ABBV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ACN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ATVI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AYI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ADBE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AMD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AAP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AES Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AET Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+10
+AMG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AFL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+A Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+APD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AKAM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ALK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ALB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ARE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ALXN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ALGN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+20
+ALLE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AGN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ADS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LNT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ALL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GOOGL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GOOG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AMZN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AEE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+30
+AAL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AEP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AXP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AIG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AMT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AWK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AMP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ABC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AME Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AMGN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+40
+APH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+APC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ADI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ANDV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ANSS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ANTM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AON Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AOS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+APA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AIV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+50
+AAPL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AMAT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+APTV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ADM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ARNC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AJG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AIZ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+T Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ADSK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ADP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+60
+AZO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AVB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AVY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BHGE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BLL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BAC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BAX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BBT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BDX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+70
+BRK.B Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BBY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BIIB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BLK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HRB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BWA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BXP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BSX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BHF Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+80
+BMY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+AVGO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BF.B Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+CHRW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+CA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+COG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+CDNS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+CPB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+COF Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+CAH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+90
+CBOE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KMX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+CCL Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CAT Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CBG Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CBS Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CELG Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CNC Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CNP Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CTL Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+100
+CERN Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CF Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+SCHW Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CHTR Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CHK Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CVX Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CMG Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CB Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CHD Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CI Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+110
+XEC Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CINF Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CTAS Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CSCO Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+C Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CFG Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CTXS Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CLX Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CME Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CMS Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+120
+KO Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CTSH Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CL Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CMCSA Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CMA Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CAG Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CXO Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+COP Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+ED Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+STZ Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+130
+COO Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+GLW Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+COST Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+COTY Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CCI Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CSRA Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CSX Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CMI Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+CVS Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DHI Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+140
+DHR Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DRI Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DVA Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DE Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DAL Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+XRAY Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DVN Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DLR Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DFS Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DISCA Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+150
+DISCK Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DISH Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DG Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DLTR Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+D Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DOV Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+DWDP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+DPS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+DTE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+DRE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+160
+DUK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+DXC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ETFC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EMN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ETN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EBAY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ECL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EIX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+170
+EMR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ETR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EVHC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EOG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EQT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EFX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EQIX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EQR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ESS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+180
+ES Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EXC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EXPE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EXPD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ESRX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+EXR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+XOM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FFIV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+190
+FAST Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FRT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FDX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FIS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FITB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FISV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FLIR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FLS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FLR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+200
+FMC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+F Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FTV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FBHS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+BEN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FCX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GPS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GRMN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+210
+GD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GGP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GIS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GPC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GILD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GPN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+GT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+220
+GWW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HAL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HBI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HOG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HRS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HIG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HAS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HCA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HCP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+230
+HSIC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HSY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HES Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HPE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HLT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HOLX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HON Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HRL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HST Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+240
+HPQ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HUM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HBAN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HII Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IDXX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+INFO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ITW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ILMN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+INTC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+250
+ICE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IBM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+INCY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IPG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IFF Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+INTU Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ISRG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IVZ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+IQV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+260
+IRM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+JEC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+JBHT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SJM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+JNJ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+JCI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+JPM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+JNPR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KSU Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+K Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+270
+KEY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KMB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KIM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KMI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KLAC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KSS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KHC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LLL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+280
+LH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LRCX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LEG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LEN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LUK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LLY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LNC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LKQ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LMT Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+L Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+290
+LOW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LYB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MTB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MAC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+M Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MRO Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+MPC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MAR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MMC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MLM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+300
+MAS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MAT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MKC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MCD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MCK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MDT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MRK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MET Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MTD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+310
+MGM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+KORS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MCHP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MU Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MSFT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MAA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MHK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TAP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MDLZ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MON Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+320
+MNST Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MCO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MOS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MSI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+MYL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NDAQ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NOV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NAVI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NTAP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+330
+NFLX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NWL Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+NFX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NEM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NWSA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NWS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NEE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NLSN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NKE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+340
+NBL Index(['Date', 'Open', 'High', 'Close', 'Volume'], dtype='object')
+Did not find a col
+JWN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NSC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NTRS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NOC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NCLH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NRG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NUE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+NVDA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ORLY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+350
+OXY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+OMC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+OKE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ORCL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PCAR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PKG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PDCO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PAYX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PYPL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+360
+PNR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PBCT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PEP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PKI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PRGO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PFE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PCG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PSX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PNW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+370
+PXD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PNC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PPG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PPL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PCLN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PFG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PGR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+380
+PLD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PRU Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PEG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PSA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PHM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PVH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+QRVO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+PWR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+QCOM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+DGX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+390
+RRC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RJF Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RTN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+O Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RHT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+REG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+REGN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RF Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RSG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RMD Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+400
+RHI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ROK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+COL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ROP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ROST Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+RCL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+CRM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SBAC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SCG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SLB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+410
+SNI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+STX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SEE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SRE Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SHW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SIG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SPG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SWKS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SLG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SNA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+420
+SO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+LUV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SPGI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SWK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SBUX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+STT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SRCL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SYK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+STI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SYMC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+430
+SYF Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SNPS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+SYY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TROW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TPR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TGT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TEL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FTI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TXN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TXT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+440
+TMO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TIF Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TWX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TJX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TMK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TSS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TSCO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TDG Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TRV Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TRIP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+450
+FOXA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+FOX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+TSN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UDR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ULTA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+USB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UAA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UNP Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UAL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+460
+UNH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UPS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+URI Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UTX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UHS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+UNM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VFC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VLO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VAR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VTR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+470
+VRSN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VRSK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VZ Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VRTX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VIAB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+V Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VNO Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+VMC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WMT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WBA Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+480
+DIS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WAT Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WEC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WFC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+HCN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WDC Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WU Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WRK Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WY Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+490
+WHR Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WMB Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WLTW Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WYN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+WYNN Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+XEL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+XRX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+XLNX Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+XL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+XYL Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+500
+YUM Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ZBH Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ZION Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+ZTS Index(['Date', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+68
+            MMM  ABT  ABBV  ACN  ATVI  AYI  ADBE  AMD  AAP  AES ...   WYNN  \
+Date                                                            ...          
+1995-05-17  NaN  NaN   NaN  NaN   NaN  NaN   NaN  NaN  NaN  NaN ...    NaN   
+1995-05-18  NaN  NaN   NaN  NaN   NaN  NaN   NaN  NaN  NaN  NaN ...    NaN   
+1995-05-19  NaN  NaN   NaN  NaN   NaN  NaN   NaN  NaN  NaN  NaN ...    NaN   
+1995-05-22  NaN  NaN   NaN  NaN   NaN  NaN   NaN  NaN  NaN  NaN ...    NaN   
+1995-05-23  NaN  NaN   NaN  NaN   NaN  NaN   NaN  NaN  NaN  NaN ...    NaN   
+
+            XEL  XRX  XLNX  XL  XYL  YUM  ZBH  ZION  ZTS  
+Date                                                      
+1995-05-17  NaN  NaN   NaN NaN  NaN  NaN  NaN   NaN  NaN  
+1995-05-18  NaN  NaN   NaN NaN  NaN  NaN  NaN   NaN  NaN  
+1995-05-19  NaN  NaN   NaN NaN  NaN  NaN  NaN   NaN  NaN  
+1995-05-22  NaN  NaN   NaN NaN  NaN  NaN  NaN   NaN  NaN  
+1995-05-23  NaN  NaN   NaN NaN  NaN  NaN  NaN   NaN  NaN  
+
+[5 rows x 437 columns]
+Index(['MMM', 'ABT', 'ABBV', 'ACN', 'ATVI', 'AYI', 'ADBE', 'AMD', 'AAP', 'AES',
+       ...
+       'WYNN', 'XEL', 'XRX', 'XLNX', 'XL', 'XYL', 'YUM', 'ZBH', 'ZION', 'ZTS'],
+      dtype='object', length=437)
